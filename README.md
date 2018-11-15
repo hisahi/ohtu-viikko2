@@ -1,2 +1,2 @@
 # ohtu-viikko2
-ohtu-viikko2
+ohtu viikot 2, 3,...
